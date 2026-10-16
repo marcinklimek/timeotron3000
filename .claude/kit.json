@@ -1,0 +1,21 @@
+{
+  "mode": "plugins",
+  "modules": [
+    "board"
+  ],
+  "guard": {
+    "pushAllow": [
+      "marcinklimek/timeotron3000"
+    ],
+    "ownerOnly": {
+      "urlPatterns": [],
+      "dirPatterns": []
+    },
+    "protect": [],
+    "bashBlock": [],
+    "safeDeleteRoots": []
+  },
+  "plugins": {
+    "applied": "0.6.3"
+  }
+}
